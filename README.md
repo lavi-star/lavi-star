@@ -1,4 +1,8 @@
-# Hi 👋, I'm Lokesh
+<h1 align="center">Hi 👋, I'm Lokesh</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=700&height=60&duration=4000&lines=AI%2FML+Developer;Full+Stack+Learner;Building+Cool+AI+Projects;Open+Source+Enthusiast" />
+</p>
 
 🚀 AI/ML Student & Developer  
 💻 Building AI-powered projects  
