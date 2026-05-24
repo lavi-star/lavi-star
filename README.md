@@ -49,4 +49,4 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/lavi-star/lavi-star/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/lavi-star/lavi-star/output/github-contribution-grid-snake.svg)
