@@ -44,3 +44,9 @@
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/lavi-star
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/lavi-star/lavi-star/blob/output/github-contribution-grid-snake.svg)
