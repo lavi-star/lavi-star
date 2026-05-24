@@ -23,6 +23,7 @@
 - Content-based recommendation engine
 - Cosine similarity + NLP
 - TMDB API integration
+- Live Demo: https://movie-recommender-system-mqvwzyfxrumh8tmw23jryw.streamlit.app/
 
 ---
 
