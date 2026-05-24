@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Lokesh
 
-<!--
-**lavi-star/lavi-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI/ML Student & Developer  
+💻 Building AI-powered projects  
+🌱 Currently learning Full Stack + Machine Learning  
+📌 Interested in AI Engineering & Software Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+
+### 🤖 AI Resume Screening System
+- Resume ranking using NLP
+- Skill matching with JD
+- AI-powered candidate filtering
+- Live Demo: https://resume-screening-ai-gamma.vercel.app
+
+### 🎬 Movie Recommendation System
+- Content-based recommendation engine
+- Cosine similarity + NLP
+- TMDB API integration
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- JavaScript
+- TypeScript
+- Machine Learning
+- Scikit-Learn
+- Streamlit
+- React
+- Git & GitHub
+
+---
+
+
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/lavi-star
